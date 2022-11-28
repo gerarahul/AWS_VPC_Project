@@ -1,5 +1,5 @@
 variable "region" {
-  description = "us-east-1"
+  description = "ap-south-1"
 }
 
 variable "environment" {
